@@ -1,3 +1,9 @@
+# tmp files mad by jupyter
 .ipynb_checkpoints
+*/.ipynb_checkpoints
+# temp files made by nbdime
+.ipynb.orig
+*/ipynb.orig
+# copied from ADA repo
 *.DS_Store
 *.DS_Store?
